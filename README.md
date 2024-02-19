@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ai related projects.
 - 📫 How to reach me gandhambhaskar975@gmail.com
 - 😄 Pronouns: he,him.
-- ⚡ Fun fact: i love red things including blood 
+- ⚡ Fun fact: i love red things 
 
 <!---
 Bhavani-Bhaskar/Bhavani-Bhaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
